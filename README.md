@@ -10,6 +10,23 @@ A simple Pokémon API built with Express and Dockerized for easy deployment.
 
 ## Installation
 
+### Option 1: run with Docker
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/martifapa/poke-backend.git
+    cd poke-backend
+    ```
+
+2. Build and start the Docker containers:
+
+    ```bash
+    docker-compose up --build
+    ```
+
+### Option 2: run locally
+
 1. Clone the repository:
 
     ```bash
